@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MAarray",
+            "request": "launch",
+            "mainClass": "MAarray",
+            "projectName": "Arrays_6d08d48a"
+        },
+        {
+            "type": "java",
+            "name": "TwoPointerReverseArray",
+            "request": "launch",
+            "mainClass": "TwoPointerReverseArray",
+            "projectName": "Arrays_6d08d48a"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "Arrays_6d08d48a"
+        },
+        {
+            "type": "java",
             "name": "MinEleOfArray",
             "request": "launch",
             "mainClass": "MinEleOfArray",
