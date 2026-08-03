@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MinEleOfArray",
+            "request": "launch",
+            "mainClass": "MinEleOfArray",
+            "projectName": "Arrays_6d08d48a"
+        },
+        {
+            "type": "java",
+            "name": "MaxEleOfArray",
+            "request": "launch",
+            "mainClass": "MaxEleOfArray",
+            "projectName": "Arrays_6d08d48a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProdEleOfArray",
+            "request": "launch",
+            "mainClass": "ProdEleOfArray",
+            "console": "integratedTerminal"
+        }
+    ]
+}
